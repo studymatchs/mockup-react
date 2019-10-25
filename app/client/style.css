@@ -1,0 +1,25 @@
+.ui.borderless.topmenu.menu {
+  background: #f5f5f5f5;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.here.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.Pho{
+  background-image: "https://www.worldanvil.com/heroes/images/header-mage.jpg"/>
+}
+
+Footer {
+
+  background-color: whitesmoke;
+  color: black;
+  font-size: 14pt;
+  font-family: open sans,helvetica neue,Helvetica,Arial,sans-serif;;
+  height: height/2;
+  width: width/2;
+
+}
