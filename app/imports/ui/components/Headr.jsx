@@ -7,14 +7,12 @@ export default class Headr extends React.Component {
         <Menu borderless className="topmenu">
           <Container>
             <Menu borderless={true} className="topmenu">
-              <Menu.Item><Icon name="th list"/></Menu.Item>
-              <Menu.Item>HOME</Menu.Item>
-              <Menu.Item>FOR GAMEMASTERS</Menu.Item>
-              <Menu.Item>FOR WRITERS</Menu.Item>
-              <Menu.Item>FOR ROLEPLAYERS</Menu.Item>
-              <Menu.Item position='left'>PRICING</Menu.Item>
-              <Menu.Item>LOGIN</Menu.Item>
-              <Menu.Item>CREATE YOUR ACCOUNT</Menu.Item>
+              <Menu.Item position='left'>Landing</Menu.Item>
+              <Menu.Item>Edit profile</Menu.Item>
+              <Menu.Item>Teams</Menu.Item>
+              <Menu.Item>Schedule</Menu.Item>
+              <Menu.Item position='right'>Create account</Menu.Item>
+              <Menu.Item>Login</Menu.Item>
             </Menu>
           </Container>
         </Menu>
