@@ -9,7 +9,7 @@ class Footer extends React.Component {
           <div style={divStyle} className="ui center aligned container">
 
             <hr />
-            Welcome back! Let's get creative! <br />
+            <br />
             <Input focus placeholder='Email or Username' /> <br />
             <Input focus placeholder='Password' /> <br />
             <Label color="black">Log in</Label> <br />
